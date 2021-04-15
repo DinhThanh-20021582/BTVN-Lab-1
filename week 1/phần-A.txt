@@ -1,0 +1,29 @@
+1. 
+ - ki?m tra xem n?u giá tr? c?a grade n?m trong kho?ng [90,100] thì tr? v? giá tr? 1(true), ngu?c l?i tr? v? false(0). 
+ - Cú pháp sai. S?a l?i: bool isA = (90 <= grade && grade <= 100);
+2. 
+- in ra k?t qu? =0
+3.
+4. 
+- giá tr? là: can 2 nhân can 2 = 2
+5.
+- l?i [Warning] division by zero [-Wdiv-by-zero]
+6. 
+- double x, cout x thì ra 1 giá tr? 
+- n?u chuy?n dòng khai báo ra ngoài hàm main thì k?t qu? =0
+7.
+- 0, 0.75, 0.75, 0.75
+8.
+A. - l?i [Warning] multi-character character constant [-Wmultichar]
+9.
+- ko l?i
+- ch? t?i bi?n có ki?u d? li?u char
+10.
+- ko l?i
+- ch? t?i bi?n có ki?u d? li?u int
+11.
+- chua khai báo bi?n F
+12.
+- in ra "Here"
+
+
